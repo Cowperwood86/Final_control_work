@@ -25,3 +25,4 @@ void PrintArray(string[] array)
 
 SecondArray(array1, array2);
 PrintArray(array2);
+
